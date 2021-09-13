@@ -8,6 +8,7 @@ authors = ["Vladimir <vovchikp.1989@gmail.com>"]
 python = "^3.8"
 Django = "^3.2.7"
 redis = "^3.5.3"
+pytest = "^6.2.5"
 
 [tool.poetry.dev-dependencies]
 
