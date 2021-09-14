@@ -12,7 +12,7 @@ redis = "^3.5.3"
 
 **Для работы с приложением**
 
-- example.env переименовать в .env и раскомментировать содержимое
+- файл example переименовать в .env и раскомментировать содержимое
 - git clone https://github.com/pvladimir1989/funbox_test.git
 - cd funbox_test
 - docker-compose up
